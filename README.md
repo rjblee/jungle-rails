@@ -16,6 +16,9 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Screenshots
 !["Screenshot of URLs (home) page"](https://asukakuwahara.com/static/ac06011cef20b0c25e28ce40842f553a/af144/jungle-rails.png)
+!["Screenshot of Register page"](https://raw.githubusercontent.com/jonosue/jungle-rails/master/docs/new-user-registration.png)
+!["Screenshot of Cart page"](https://raw.githubusercontent.com/jonosue/jungle-rails/master/docs/stripe-payment.png)
+!["Screenshot of Order page"](https://raw.githubusercontent.com/jonosue/jungle-rails/master/docs/order-confirmation.png)
 
 
 ## Stripe Testing
