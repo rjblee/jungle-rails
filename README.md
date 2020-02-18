@@ -15,7 +15,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 8. Run `bin/rails s -b 0.0.0.0` to start the server
 
 ## Screenshots
-!["Screenshot of URLs (home) page"](https://github.com/rjblee/tinyapp/blob/master/docs/urls%20page.png?raw=true)
+!["Screenshot of URLs (home) page"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fasukakuwahara.com%2F&psig=AOvVaw0q9YerOZEkZrcvv8Je16at&ust=1582073394739000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCFourw2ecCFQAAAAAdAAAAABAZ)
 
 
 ## Stripe Testing
